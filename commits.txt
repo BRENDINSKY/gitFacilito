@@ -1,0 +1,25 @@
+commit 0e55f91e1ce98c11b56be7f608653105b0dae65f
+Author: Brendinsky <bipm_92@hotmail.com>
+Date:   Sun Aug 13 22:36:52 2017 -0500
+
+    Haciendo ultimo commit de la noche
+
+
+commit e78f674f5f4119a58da96c5cdd00e2d55015969c
+Author: Brendinsky <bipm_92@hotmail.com>
+Date:   Sun Aug 13 22:06:19 2017 -0500
+
+    se cambio el estilo y el 
+
+commit c4599f17b3b39cf5ca1ccf7102e3310c1713cd10
+Author: Brendinsky <bipm_92@hotmail.com>
+Date:   Sun Aug 13 21:08:06 2017 -0500
+
+    Sabeeeee
+
+
+commit 44690dbc496d66d884f2ef2a1094ed534eb836cd
+Author: Brendinsky <bipm_92@hotmail.com>
+Date:   Sun Aug 13 21:01:07 2017 -0500
+
+    Iniciamos

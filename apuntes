@@ -1,0 +1,28 @@
+
+git init -----inicia git , solo se usa una vez
+
+git status ---- estado del proyecto
+
+git add ----
+
+git add -A ----
+
+git commit -m "Mensaje" -----
+
+git log ----
+
+git reset(ahi 3 tipos)
+
+head ---- commit donde nos encontramos
+
+ramas ---- linea de tiemp en nuestro proyecto, sirve para arreglar errores,
+			experimentar, hacer grandes cambios.
+
+rama master ---- cuando se hace init se crea, es donde comenzamos a trabajar, es la rama principal y estable de nuestro proyecto.
+
+git branch --- muestra las ramas que tenemos
+
+git branch nombredelarama ---- crea una rama con el nombre indicado
+
+git checkout nombredelarama --- sirve para moverse entre las ramas
+
