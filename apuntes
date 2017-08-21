@@ -1,5 +1,5 @@
 
-git init -----inicia git , solo se usa una vez
+git init ---- inicia git , solo se usa una vez
 
 git status ---- estado del proyecto
 
@@ -25,4 +25,24 @@ git branch --- muestra las ramas que tenemos
 git branch nombredelarama ---- crea una rama con el nombre indicado
 
 git checkout nombredelarama --- sirve para moverse entre las ramas
+
+git merge ramaQueQueremos absorver ---- previamente me tuve que cambiar a la rama chida que va a absorber la rama con las cosas nuevas, tuve un problema y en la rama master la que absorvera tuve que agregar y hacerc commit para que en el log me aparecieran ya fusionados los commits.
+
+git branch -D nombrederamaaeliminar ---- eliminar una ramas
+
+git checkout -b nombredelanuevarama ---- nos movemos y al mismo tiempo creamos una nueva rama
+
+git clone ---- sirve para clonar un proyecto, se usa cuando no nos interesa colaborar en el proyecto.
+
+repositorio = proyecto
+
+git remote add origin httpsDelProyectoGitHub ---- vincula nuestro proyecto local, con nuestro proyecto remoto.
+
+git remote -v ---- se lista el repositorio q acaba de ser agregado a github
+
+git remote remove origin ---- quita el repositorio que acabamos de hacer
+
+git push origin master(rama que vamos a pasar) ---- manda lo que tenemos en la compu a github y se mandan tbm los commits 
+
+
 
